@@ -1,0 +1,24 @@
+<!--Button-->
+<center>
+  <table align="center" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="center" bgcolor="#0076ff" style="background-color: #0076ff; margin: auto; max-width: 600px; border-radius: 30px; padding: 15px 20px;" width="100%">
+              <!--[if mso]>&nbsp;<![endif]-->
+              <a href="https://djpop.vercel.app"
+                 target="_self"
+                 style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-align: center; background-color: #0076ff; text-decoration: none; border: none; border-radius: 30px; display: inline-block;">
+                <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; line-height: 1.5em; text-align: center;">
+                  Insurance
+                </span>
+              </a>
+              <!--[if mso]>&nbsp;<![endif]-->
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</center>
